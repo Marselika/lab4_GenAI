@@ -1,0 +1,7 @@
+Metodă,Pași,Timp pentru 64 de imagini (s),Calitate vizuală (1–5),Observații
+DDPM,1000,76.92,de completat,
+DDIM,1000,88.36,de completat,
+DDIM,200,21.67,de completat,
+DDIM,50,4.3,de completat,
+DDIM,20,1.81,de completat,
+DDIM,10,0.87,de completat,
